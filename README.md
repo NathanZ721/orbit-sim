@@ -1,6 +1,8 @@
 # orbit-sim
 Orbit simulation
 
+This program simulates the motion of any number of bodies in 3D given masses, initial positions, and initial velocities. The simulation includes sliders that can be used to adjust parameters while it is running.
+
 Instructions for running simulator:
 
 enter masses and initial positions and velocities of all bodies
